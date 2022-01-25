@@ -21,4 +21,4 @@ This Kaggle competition is aimed at predicting the final price of houses with 79
 
 I get best results from blending 2 models: RidgeCV and LassoCV in a ratio of 90/10.
 
-<img scr='additionally/leaderboard_photo.jpg'/>
+<img src='additionally/leaderboard_photo.jpg'/>
